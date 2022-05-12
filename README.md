@@ -28,4 +28,4 @@ Nele foi possivel ter conhecimentos fundamentais de HTML, CSS e JavaScript.
 
 ---
 
-⌨️ com ❤️ por [Petrus Borges](https://www.linkedin.com/in/petrusborgesmachado/) 😊
+- com ❤️ por [Petrus Borges](https://www.linkedin.com/in/petrusborgesmachado/) 😊
