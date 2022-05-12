@@ -3,7 +3,7 @@
 É um site adaptado para o mobile e web, organizado em uma única página para uma possível
 empresa de cabelereiras!
 
-### 📋 Projeto
+## 📋 Projeto
 
 Este projeto é resultado de participação do evento NLW#6 Mission Origin pela Rocketseat 🚀.
 Nele foi possivel ter um conhecimento inicial na programação com conhecimentos fundamentais de HTML e CSS.
