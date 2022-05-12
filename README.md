@@ -6,7 +6,7 @@ empresa de cabelereiras!
 ## 📋 Projeto
 
 Este projeto é resultado de participação do evento NLW#6 Mission Origin pela Rocketseat 🚀.
-Nele foi possivel ter um conhecimento inicial na programação com conhecimentos fundamentais de HTML e CSS.
+Nele foi possivel ter conhecimentos fundamentais de HTML,CSS e JavaScript.
 
 ## 🛠️ Construído com
 
