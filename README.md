@@ -1,12 +1,12 @@
 # OriginSix - BeautySalon
 
 É um site adaptado para o mobile e web, organizado em uma única página para uma possível
-empresa de cabelereiras!
+empresa de cabeleireiras!
 
 ## 📋 Projeto
 
 Este projeto é resultado de participação do evento NLW#6 Mission Origin pela Rocketseat 🚀.
-Nele foi possivel ter conhecimentos fundamentais de HTML,CSS e JavaScript.
+Nele foi possivel ter conhecimentos fundamentais de HTML, CSS e JavaScript.
 
 ## 🛠️ Construído com
 
