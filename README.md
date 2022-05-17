@@ -8,6 +8,8 @@ empresa de cabeleireiras!
 Este projeto é resultado de participação do evento NLW#6 Mission Origin pela Rocketseat 🚀.
 Nele foi possivel ter conhecimentos fundamentais de HTML, CSS e JavaScript.
 
+[BeautySalon - Petrus Borges](https://petrusborges-beautysalon.netlify.app)
+
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105453766/168395457-2152dc05-e4c0-45c0-b283-2f9e23629fb6.gif)
 
 ## 🛠️ Construído com
